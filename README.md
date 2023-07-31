@@ -41,7 +41,6 @@
 <a margin="10" href="https://tailwindcss.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="tailwind"></a>
 <a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" alt="sass"></a>
 
-
 <a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://v4.material-ui.com/static/logo.png" alt="material ui"></a>
 <a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="figma"></a>
 <a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react"></a>
@@ -49,6 +48,6 @@
 
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></a>
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="80px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="express"></a>
+<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="60px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="express"></a>
 
 </div>
