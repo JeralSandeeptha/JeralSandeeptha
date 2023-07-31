@@ -48,28 +48,7 @@
 <a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next js"></a>
 
 <a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1200px-Firebase_Logo.svg.png" alt="firebase"></a>
 <a margin="10" href="https://mongodb.com" target="_blank"><img margin="10px" height="40" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongodb"></a>
 <a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="80px" src="https://www.nextontop.com/assets/img/services/web/expressjs.svg" alt="express"></a>
 
-
-<br />
-
-## Reach Me
-<br />
-
-<a href="https://www.linkedin.com/in/chamikara-mendis/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/chamikara98" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.instagram.com/chamikara_98/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://www.facebook.com/Chamikara.mendiz" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
 </div>
