@@ -17,7 +17,15 @@
   <h2> Dear, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+<div align="center" width="50">
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div>
 
+<div align="center">
+  You have finally discovered my Github profile. <br>
+  Please feel free to contact me at anytime by <a href="jeral.sandeeptha1@gmail.com"><b>email</b></a> me
+  <i>Happy Coding!</i> 😊
+</div>
 
 
 
@@ -68,18 +76,4 @@
 <a href="https://www.facebook.com/Chamikara.mendiz" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-</div>
-
-
-<br />
-<br />
-
-<div align="center" width="50">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-</div>
-
-<div align="center">
-  You have finally discovered my Github profile. <br>
-  Please feel free to contact me at anytime by <a href="jeral.sandeeptha1@gmail.com"><b>email</b></a> me
-  <i>Happy Coding!</i> 😊
 </div>
