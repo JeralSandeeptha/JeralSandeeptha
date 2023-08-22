@@ -6,7 +6,7 @@
   <h4 align="center">Passionate about software innovations</h4>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Web+Developer;Programmer;Mobile+Developer;Web+Designer;Tech-fav+person+from+Sri Lanka)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Web+Developer;Programmer;Mobile+Developer;Web+Designer;Tech-fav+person+from+Sri Lanka)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jeral-sandeeptha-983b38253/">
