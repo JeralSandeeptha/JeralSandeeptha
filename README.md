@@ -57,3 +57,7 @@
   <br />
   <br />
 </div>
+
+<div align="center">
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeralSandeeptha&layout=compact&theme=synthwave&v=2)
+</div>
