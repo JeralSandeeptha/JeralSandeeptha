@@ -1,7 +1,8 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <div align="center">
-  <h1 align="center">Hi, I'm Jeral     
+  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">, I'm Jeral     
   Sandeeptha</h1>
   <h4 align="center">Passionate about software innovations</h4>
 </div>
