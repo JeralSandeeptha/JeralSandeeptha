@@ -5,6 +5,7 @@
   <h4 align="center">Passionate about software innovations</h4>
 </div>
 
+<p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
 
 <div align="center">
   <h2> Dear, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
@@ -58,6 +59,5 @@
   <br />
 </div>
 
-<div align="center">
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JeralSandeeptha&layout=compact&theme=synthwave&v=2)
-</div>
+
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
